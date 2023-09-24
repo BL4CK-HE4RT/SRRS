@@ -4,4 +4,4 @@
 
 import os
 import Testlucky 
-Testlucky.loging()
+Testlucky.login()
