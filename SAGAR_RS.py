@@ -3,7 +3,5 @@
 #পারলে কর
 #তোর রিয়েল আব্বু SAGAR 😂
 
-
-import os
-import Testlucky 
-Testlucky.login()
+import Testlucky
+Testlucky.cython_function()
